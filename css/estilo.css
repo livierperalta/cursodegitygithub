@@ -1,9 +1,23 @@
 body{
     background-color: pink;
+    text-align: center;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    width: 70%;
+    margin: 0 auto;
+    border: 2px solid black ;
+    margin-top: 70px;
+    background-color: rgb(236, 191, 158);
 }
 #titulo{
     color: yellowgreen;
 }
-p{
+#p1{
     color:white;
+}
+#p2{
+    color: teal;
 }
