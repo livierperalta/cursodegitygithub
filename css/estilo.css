@@ -13,11 +13,17 @@ body{
     background-color: rgb(236, 191, 158);
 }
 #titulo{
-    color: yellowgreen;
+    color: rgb(0, 0, 0);
 }
 #p1{
     color:white;
 }
 #p2{
     color: teal;
+}
+#header{
+    background-color: cyan;
+}
+#ncabecera{
+    color: brown;
 }
