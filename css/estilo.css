@@ -23,7 +23,14 @@ body{
 }
 #header{
     background-color: cyan;
+    height: 80px;
 }
 #ncabecera{
     color: brown;
+}
+#footer{
+    background-color: cornflowerblue;
+}
+#pfooter{
+    color: crimson;
 }
