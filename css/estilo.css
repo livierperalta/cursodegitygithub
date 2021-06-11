@@ -30,7 +30,9 @@ body{
 }
 #footer{
     background-color: cornflowerblue;
+    height: 80px;
 }
 #pfooter{
     color: crimson;
+    
 }
